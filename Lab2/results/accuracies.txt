@@ -1,0 +1,15 @@
+[Comparison for the number of hidden layers]
+0-hidden: 88.66000000000001 %
+1-hidden: 79.13 %
+2-hidden: 11.35 %
+
+
+[Comparison for the activation functions]
+Sigmoid: 80.06 %
+ReLU: 	 89.99000000000001 %
+Tanh: 	 89.86 %
+
+
+[Logistic regression vs. Neural network]
+Logistic regression: 	63.69047619047619 %
+Neural network:		68.45238095238095 %
