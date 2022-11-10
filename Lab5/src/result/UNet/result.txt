@@ -1,0 +1,6 @@
+Test Avg. DSC: 0.8054
+Test Max. DSC (59): 0.95810866355896
+Test Min. DSC (35): 0.17161187529563904
+
+Test DSC (33): 0.9577
+Test DSC (80): 0.7232

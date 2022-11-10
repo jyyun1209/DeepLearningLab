@@ -1,0 +1,2 @@
+[TRAIN] avg_loss:  0.00031009467522639575 avg_acc:  tensor(100., device='cuda:0')
+[VAL] avg_loss:  0.0207013800892755 avg_acc:  tensor(99.5511, device='cuda:0')

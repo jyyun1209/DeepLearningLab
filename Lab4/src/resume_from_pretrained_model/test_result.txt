@@ -1,0 +1,1 @@
+[TEST] Loss: 0.06897753858710033, Acc: tensor(98.2720, device='cuda:0')

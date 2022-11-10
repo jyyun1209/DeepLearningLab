@@ -1,0 +1,4 @@
+train_cost: 0.000000
+train_accuracy: 100.00%
+
+test_accuracy: 99.3%
