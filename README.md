@@ -6,4 +6,5 @@ Ubuntu 18.04\
 Python 3.8.8\
 NVIDIA Geforce 2080 Ti\
 CUDA 11.1\
-PyTorch 1.8.1
+PyTorch 1.8.1\
+Jupyter-notebook (only for Lab3)
